@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.color{
+    height: 33px;
+    font-size: 14px;
+    font-weight: 500;
+    color:#93989e;
+    letter-spacing: 0px;
+    background-color: #010f1c;
+}
+
+.dropdowns{
+    list-style: none;
+}
+
+.user_form:hover{
+    cursor: pointer;
+}
+
+.nav{
+    height: 105px;
+    border-bottom: 0.2px #cfd0d1 solid;
+}
+
+#user{
+    border: 1.5px solid #cfd0d1;
+    border-radius: 50%;
+}
